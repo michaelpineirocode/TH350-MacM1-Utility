@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+
+
+[HKEY_LOCAL_MACHINE\Software\Wine\Ports]
+
+"COM1"="/dev/cu.usbserial-110"
+"COM2"="/dev/cu.usbserial-110"
+"COM3"="/dev/cu.usbserial-110"
+"COM4"="/dev/cu.usbserial-110"
+"COM5"="/dev/cu.usbserial-110"
+"COM6"="/dev/cu.usbserial-110"
